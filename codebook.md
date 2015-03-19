@@ -1,12 +1,12 @@
 The following shows the old names and new names separated by a  ",".
 
 
-"tBodyAcc-mean()-X","Time_Body_Accel_Mean_X"
-"tBodyAcc-mean()-Y","Time_Body_Accel_Mean_Y"
-"tBodyAcc-mean()-Z","Time_Body_Accel_Mean_Z"
-"tBodyAcc-std()-X","Time_Body_Accel_Std_Dev_X"
-"tBodyAcc-std()-Y","Time_Body_Accel_Std_Dev_Y"
-"tBodyAcc-std()-Z","Time_Body_Accel_Std_Dev_Z"
+"tBodyAcc-mean()-X",      "Time_Body_Accel_Mean_X"
+"tBodyAcc-mean()-Y",      "Time_Body_Accel_Mean_Y"
+"tBodyAcc-mean()-Z",      "Time_Body_Accel_Mean_Z"
+"tBodyAcc-std()-X",       "Time_Body_Accel_Std_Dev_X"
+"tBodyAcc-std()-Y",       "Time_Body_Accel_Std_Dev_Y"
+"tBodyAcc-std()-Z",       "Time_Body_Accel_Std_Dev_Z"
 "tGravityAcc-mean()-X","Time_Gravity_Accel_Mean_X"
 "tGravityAcc-mean()-Y","Time_Gravity_Accel_Mean_Y"
 "tGravityAcc-mean()-Z","Time_Gravity_Accel_Mean_Z"
