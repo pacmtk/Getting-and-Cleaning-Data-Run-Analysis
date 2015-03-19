@@ -48,6 +48,11 @@ The following shows the old names and new names separated by a  ",".
 "angle(Y,gravityMean)","Angle_Y_Gravity_Mean"
 "angle(Z,gravityMean)","Angle_Z_Gravity_Mean"
 
-run_analysis.R requires the data files be loaded locally.  measurement_names.R is also required to be run and is sourced in run_analysis.R.  run_analysis.R creates a new dataset called "data0" which is a compilation of the test and train data sets, where each row/observation in the original test or train data constitutes a new row/observation in data0.  Only the desired mean and standard deviation measurements were included in data0.  Subjects were left as numbers 1-30, but activities were factorized and replaced with character string describing activity.
+run_analysis.R requires the data files be loaded locally.  measurement_names.R is also required to be run a
+nd is sourced in run_analysis.R.  run_analysis.R creates a new dataset called "data0" which is a compilation 
+of the test and train data sets, where each row/observation in the original test or train data constitutes a 
+new row/observation in data0.  Only the desired mean and standard deviation measurements were included in data0.  
+Subjects were left as numbers 1-30, but activities were factorized and replaced with character string describing 
+activity.
 
 average_data provides a mean of all values of each variable for a given subject and activity.
