@@ -2,6 +2,7 @@ The following shows the old names and new names separated by a  ",".
 
 
 "tBodyAcc-mean()-X",      "Time_Body_Accel_Mean_X"
+
 "tBodyAcc-mean()-Y",      "Time_Body_Accel_Mean_Y"
 "tBodyAcc-mean()-Z",      "Time_Body_Accel_Mean_Z"
 "tBodyAcc-std()-X",       "Time_Body_Accel_Std_Dev_X"
